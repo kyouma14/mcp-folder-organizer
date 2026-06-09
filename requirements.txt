@@ -1,0 +1,14 @@
+mcp
+typer
+rich
+watchdog
+chromadb
+sentence-transformers
+pymupdf
+pdfplumber
+pillow
+imagehash
+pytesseract
+python-dotenv
+pydantic
+loguru

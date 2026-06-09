@@ -1,0 +1,3 @@
+venv/
+storage/operations.json
+__pycache__/
