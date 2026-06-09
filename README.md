@@ -1,7 +1,7 @@
 # mcp-folder-organizer
 Organize folders using natural language through Claude Desktop + MCP, with persistent history and undo support.
 
-# MCP Smart Folder Organizer
+# MCP Folder Organizer
 
 Organize folders using natural language through Claude Desktop + MCP, with built-in operation history and undo support.
 
@@ -248,6 +248,22 @@ History is local only.
 * shutil
 
 ---
+
+##Demo
+
+<img width="1713" height="896" alt="image" src="https://github.com/user-attachments/assets/939d3ae3-9d89-4459-b96c-be607c82d636" />
+
+
+
+<img width="1202" height="1027" alt="image" src="https://github.com/user-attachments/assets/cfd90b77-cbbe-49b7-82c6-96b8ca19af97" />
+
+
+
+
+<img width="1668" height="896" alt="image" src="https://github.com/user-attachments/assets/95ee2dd2-cdcd-409d-9b47-35af8231d1b5" />
+
+
+
 
 ## Challenges Solved
 
